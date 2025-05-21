@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["DynamicYieldModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.dynamicyield.DynamicYieldModule"]
+  }
+}
